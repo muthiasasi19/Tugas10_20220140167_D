@@ -1,1 +1,5 @@
 ![Screenshot (105)](https://github.com/muthiasasi19/Tugas10_20220140167_D/assets/126458889/6581382d-43ad-42a5-830d-d663b04b3dd3)
+![Screenshot (106)](https://github.com/muthiasasi19/Tugas10_20220140167_D/assets/126458889/9ba9fc49-d648-428e-9210-bb60a48cac62)
+![Screenshot (107)](https://github.com/muthiasasi19/Tugas10_20220140167_D/assets/126458889/175e736c-f5f2-4492-9579-03beb789f4d1)
+![Screenshot (108)](https://github.com/muthiasasi19/Tugas10_20220140167_D/assets/126458889/7eecfd38-7880-42e9-8786-ac9b924cf882)
+![Screenshot (109)](https://github.com/muthiasasi19/Tugas10_20220140167_D/assets/126458889/ddcba976-7989-4c67-be1d-99fee23b035b)
