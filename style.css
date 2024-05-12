@@ -1,0 +1,120 @@
+/* Reset CSS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    font-family: 'Kanit', sans-serif;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+
+
+
+/* Navbar */
+.navbar {
+    background-color: rgb(173, 209, 223);
+    color: #fff;
+    padding: 10px 0;
+}
+
+.navbar .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 0;
+
+}
+
+.navbar h1 {
+    font-size: 24px;
+}
+
+.navbar ul {
+    list-style: none;
+    display: flex;
+}
+
+.navbar ul li {
+    margin-right: 20px;
+}
+
+.navbar ul li a {
+    text-decoration: none;
+    color: #fff;
+}
+
+/* Header */
+.header {
+    background-color: #7a8fa8;
+    padding: 5px 0;
+}
+
+.header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.center-image {
+    margin: auto;
+   
+}
+
+
+
+
+.new-card{
+    margin-top: 50px;
+    cursor: pointer;
+}
+/* Cards */
+.card {
+    border: 1px solid #ddd;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    height: auto; /* Mengatur tinggi kartu menjadi otomatis */
+}
+
+.card img {
+    width: 100%; /* Menyesuaikan lebar gambar dengan lebar kartu */
+    height: auto; /* Menyesuaikan tinggi gambar secara proporsional */
+    margin-bottom: 10px; /* Memberikan jarak bawah antara gambar dan teks */
+}
+
+.card-body {
+    text-align: center; /* Mengatur teks menjadi tengah */
+}
+
+.card-title{
+    margin-top: auto;
+}
+
+
+
+
+
+/* Footer */
+.footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+
+
+.center-image {
+    display: block; /* Mengubah gambar menjadi blok agar dapat menggunakan margin: auto; */
+    margin: auto;
+}
